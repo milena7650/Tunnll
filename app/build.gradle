@@ -6,7 +6,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.example.milen_000.firstkotlinapp"
+        applicationId "firstkotlinapp"
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 1

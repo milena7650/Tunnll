@@ -1,4 +1,4 @@
-package com.example.milen_000.firstkotlinapp;
+package firstkotlinapp;
 
 import org.junit.Test;
 
